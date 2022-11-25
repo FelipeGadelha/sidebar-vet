@@ -1,0 +1,37 @@
+const colors = {
+  // ""
+  white: "#FFF",
+  black: "#000",
+  "gray-50": "#F7FAFC",
+  "gray-100": "#EDF2F7",
+  "gray-200": "#E2E8F0",
+  "gray-300": "#CBD5E0",
+  "gray-400": "#A0AEC0",
+  "gray-500": "#718096",
+  "gray-600": "#4A5568",
+  "gray-700": "#2D3748",
+  "gray-800": "#1A202C",
+  "gray-900": "#171923",
+  "green-50": "#F0FFF4",  
+  "green-100": "#C6F6D5",
+  "green-200": "#9AE6B4",
+  "green-300": "#68D391",
+  "green-400": "#48BB78",
+  "green-500": "#38A169",
+  "green-600": "#2F855A",
+  "green-700": "#276749",
+  "green-800": "#22543D",
+  "green-900": "#1C4532",
+  "red-50": "#FFF5F5",
+  "red-100": "#FED7D7",
+  "red-200": "#FEB2B2",
+  "red-300": "#FC8181",
+  "red-400": "#F56565",
+  "red-500": "#E53E3E",
+  "red-600": "#C53030",
+  "red-700": "#9B2C2C",
+  "red-800": "#822727",
+  "red-900": "#63171B"
+}
+
+export default colors;

@@ -1,0 +1,36 @@
+interface Design {
+  space: {
+    px: string,
+    1: string,
+    2: string,
+    3: string,
+    4: string,
+    5: string,
+    6: string,
+    7: string,
+    8: string,
+    10: string,
+    12: string,
+    16: string,
+    20: string,
+    40: string,
+    64: string,
+    80: string,
+  },
+  fontSize: {
+    xxs: string,
+    xs: string,
+    sm: string,
+    md: string,
+    lg: string,
+    xl: string,
+    '2xl': string,
+    '4xl': string,
+    '5xl': string,
+    '6xl': string,
+    '7xl': string,
+    '8xl': string,
+    '9xl': string 
+  },
+}
+ export default Design
